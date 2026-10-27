@@ -3,5 +3,5 @@ This is my portfolio site showcasing my various skills under web design and user
 
 ## 🌐 Live Demo
 
-[🚀 View My Portfolio](file:///C:/Users/PC/Desktop/jerry%20firt%20github%20project/index.html)
+[🚀 View My Portfolio](https://jeremiahdavid621-sys.github.io/Jerry-Portfolio/)
 
